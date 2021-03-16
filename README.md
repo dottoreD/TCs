@@ -1,6 +1,6 @@
 # TCs for arduino
 
-	TCs.h - library to get temperature for all standard thermocouples, knowing Type, coldJunctionTemperature and hotJunctionVoltage
+	TCs.h - library to get temperature for all standard thermocouples including Type B, E, J, K, N, R, S and T, knowing Type, coldJunctionTemperature and hotJunctionVoltage
 	created by Dieter Reichl, 2021-03
 	released into public domain
 
